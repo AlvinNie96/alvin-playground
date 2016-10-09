@@ -1,0 +1,21 @@
+Buy PeanutButter
+Buy Jelly
+Buy Bread
+Go Home
+Get knife
+Take out the PeanutButter
+Turn the PeanutButter Lid Counter Clock Wise to Open
+Put Knife into PeanutButter
+Put PeanutButter onto knife
+Take out Bread 1
+Spread out PeanutButter onto Bread 1
+Turn PeanutButter Lid ClockWise to close
+Take out Jelly
+Turn Jelly Lid Counter ClockWise to open
+Put Knife into Jelly
+Put Jelly onto knife
+Take out Bread 2
+Spread out Jelly onto Bread 2
+Turn Jelly Lid ClockWise to close
+Merge Bread 1 and Bread to with Jelly and PeanutButter facing each other
+done 
