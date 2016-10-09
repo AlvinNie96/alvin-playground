@@ -18,4 +18,12 @@ Take out Bread 2
 Spread out Jelly onto Bread 2
 Turn Jelly Lid ClockWise to close
 Merge Bread 1 and Bread to with Jelly and PeanutButter facing each other
-done 
+done
+
+//Edge Cases
+1.What if there is no PeanutButter, Jelly, and bread at a supermarket?
+2.What types of PeanutButter, Jelly, and bread?
+3.Where is knife
+4.What if the opening processes it wrong?
+5.How to spread?
+6.Which side of the knife do you use?
