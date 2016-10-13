@@ -1,0 +1,13 @@
+Look for the first number. (1)
+Look for a number greater than 1 but less than 84. In ascending order. From numbers 1-84
+Look for a number greater than 3 but less than 84. In ascending order. From numbers 3-84
+Look for a number greater than 6 but less than 84. In ascending order. From number 6-84
+Look for a number greater than 11 but less than 84. In ascending order. From numbers 11-84
+Look for a number greater than 13 but less than 84. In ascending order. From numbers 13-84
+Look for a number greater than 16 but less than 84. In ascending order. From numbers 16-84
+Look for a number greater than 21 but less than 84. In ascending order. From numbers 21-84
+Look for a number greater than 24 but less than 84. In ascending order. From numbers 24-84
+Look for a number greater than 43 but less than 84. In ascending order. From numbers 43-84
+Look for a number greater than 55 but less than 84. In ascending order. From numbers 55-84
+Look for a number greater than 67 but less than 84. In ascending order. From numbers 67-84
+Look for the last number remaining (84) 
