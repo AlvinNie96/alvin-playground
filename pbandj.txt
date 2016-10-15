@@ -1,0 +1,38 @@
+Go to Store
+Buy PeanutButter
+Buy Jelly, any type
+Buy Bread, any type
+If store does not have PeanutButter ,Jelly and bread. Then go to another store. Else Proceed to buy
+Go Home
+Get knife from the drawers
+Use the sharp side of the Knife
+Take out the PeanutButter
+Turn the PeanutButter Lid Counter Clock Wise to Open.
+If Opening process is wrong. Then Turn ClockWise to Open. Else Proceed with next step
+Put Knife into PeanutButter
+Put PeanutButter onto knife
+Take out Bread 1
+Spread out PeanutButter onto Bread 1
+Spread the PeanutButter in an upwards ands downwards motion
+Turn PeanutButter Lid ClockWise to close
+If Closing process is wrong. Then turn Counter Clockwise to open. Else proceed with next step
+Take out Jelly
+Turn Jelly Lid Counter ClockWise to open
+If Opening process is wrong. Then Turn ClockWise to Open. Else Proceed with next step
+Put Knife into Jelly
+Put Jelly onto knife
+Take out Bread 2
+Spread out Jelly onto Bread 2
+Spread the Jelly in an upwards ands downwards motion
+Turn Jelly Lid ClockWise to close
+If Closing process is wrong. Then turn Counter Clockwise to open. Else proceed with next step
+Merge Bread 1 and Bread to with Jelly and PeanutButter facing each other
+done
+
+//Edge Cases
+1.What if there is no PeanutButter, Jelly, and bread at a supermarket?
+2.What types of PeanutButter, Jelly, and bread?
+3.Where is knife
+4.What if the opening processes it wrong?
+5.How to spread?
+6.Which side of the knife do you use?
